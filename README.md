@@ -14,7 +14,7 @@ IOT and software development Department tasks:
 - design and implement a connection layer base for machine learning model via cloud database
 
 
-# Tech
+## Tech
 PHP 
 Java 
 MySQL 
@@ -24,6 +24,4 @@ flutter
 
 
 [the plan](https://s-m.com.sa/table.pdf)
-
-
 [tasks](https://s-m.com.sa/task.pdf)
