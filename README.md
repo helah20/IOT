@@ -1,5 +1,6 @@
-# IOT
-## smart mithods summer training 
+
+# smart mithods summer training 
+## path of IOT
 
 # Working Task List :June- July- August  2021 
 
@@ -23,5 +24,6 @@ IBM Watson
 flutter 
 
 
-[the plan](https://s-m.com.sa/table.pdf)
-[tasks](https://s-m.com.sa/task.pdf)
+[the plan table](https://s-m.com.sa/table.pdf)
+
+[required tasks](https://s-m.com.sa/task.pdf)
